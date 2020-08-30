@@ -1,4 +1,4 @@
-Hi there 👋
+Hi, I'm Majed 👋
 
 I'm a ~another~ Software Developer, experienced but hungry
 
