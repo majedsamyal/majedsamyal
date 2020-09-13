@@ -37,4 +37,5 @@ I'm a ~another~ Software Developer, experienced but hungry
 - LinkedIn: <a href = "https://www.linkedin.com/in/majed-samyal/">Majed Samyal</a>
 - Medium: <a href = "https://medium.com/@majed.samyal">@majed.samyal</a>
 
+<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
 
