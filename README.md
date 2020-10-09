@@ -1,6 +1,6 @@
 Hi, I'm Majed 👋
 
-I'm a ~another~ Software Developer, experienced but hungry
+~Another~ An other Software Developer, experienced but hungry
 
 - 🌱 I’m currently learning Data Structure & Algorithms. Yes I'm late, but as they say, the next best time is now 
 - 🤔 I’m working as a full time Software Developer
