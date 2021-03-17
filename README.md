@@ -3,6 +3,7 @@ Hi, I'm Majed 👋
 ~Another~ An other Software Developer, experienced but hungry
 
 - 🌱 I’m currently learning Data Structure & Algorithms. Yes I'm late, but as they say, the next best time is now 
+- 🌱 Design Patters, I know they are more subjective but with experience you can take advantage
 - 🤔 I’m working as a full time Software Developer
 
 ### :boy:💻 I'm working on
