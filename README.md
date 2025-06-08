@@ -2,15 +2,12 @@ Hi, I'm Majed 👋
 
 ~Another~ An other Software Developer, experienced but hungry
 
-- 🌱 I’m currently learning Data Structure & Algorithms. Yes I'm late, but as they say, the next best time is now 
-- 🌱 Design Patterns, I know they are more subjective but with experience you can take advantage
-- 🤔 I’m working as a full time Software Developer
+- 🌱 I’m currently learning ML. Yes, I'm late, but as they say, the next best time is now 
+- 🤔 I’m a full-time Software Developer at AWS Dublin. 
 
 ### :boy:💻 I'm working on
-- I'm the key developer of an Platform team, responsible to publish, manage Enterprise APIs
-- Working on implementation of API Cost Management, API SLA 
-- Handling API Security following OAuth using Azure AD
-- Helped my team adpopting Agile workflow using Scrum
+- I'm working in the AWS Networking Team, responsible for Link Troubleshooting on operational links
+- Working on improving the experience of Data Center Operators
 
 ### What I love 
 - :muscle: Fitness
@@ -25,8 +22,8 @@ Hi, I'm Majed 👋
 - Naming convention is hard
 - Think before code
 - Life is easy when you know the basics
-- It's easy to create process but hard to follow 
-- Software quality is a continues process
+- It's easy to create a process, but hard to follow 
+- Software quality is a continuous process
 - Communication is the most important skill
 - Learn from your coworkers
 - Work on your Ego
